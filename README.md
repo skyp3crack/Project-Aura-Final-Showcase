@@ -1,5 +1,3 @@
-# Project Aura Logo
-
 # 💖 Project Aura 💖
 ### Your AI-Powered Dating Experience
 
@@ -243,6 +241,7 @@ frontend/
 ├── vite.config.js          # Vite configuration
 └── tailwind.config.js      # Tailwind customization
 
+
 ### Backend Architecture
 
 backend/
@@ -364,10 +363,10 @@ Meet the talented individuals who brought Project Aura to life:
 
 | Name                      | GitHub                                     |
 | :------------------------ | :----------------------------------------- |
-| Thiriidev Kumar Murlidaran | [@Thiriidev](https://github.com/Thiriidev) |
+| Thiriidev Kumar Murlidaran| [@Thiriidev](https://github.com/Thiriidev) |
 | Ngai Hoe Yean             | [@ngai123](https://github.com/ngai123)     |
 | Christian Lew             | [@christian-lew](https://github.com/christian-lew) |
-| Muhammad Khalif Amin Bin Azam | [@skyp3crack](https://github.com/skyp3crack) |
+| Muhammad Khalif Amin      | [@skyp3crack](https://github.com/skyp3crack) |
 | Ng Yuit Xian              | [@ng186](https://github.com/ng186)         |
 | Nur Izzati Nabilah        | [@bellanriz](https://github.com/bellanriz) |
 
